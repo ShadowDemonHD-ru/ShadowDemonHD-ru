@@ -13,10 +13,8 @@
 <img src="assets/h-projects.svg" width="100%" alt="01 Проекты">
 
 <p align="center">
-  <img src="assets/card-gravastar.svg" width="49%" alt="Gravastar: десктоп-приложение на Python">
-  <img src="assets/card-widgets.svg" width="49%" alt="Виджеты для OBS и HTTPS-сервер на Python">
   <a href="https://shadowdemonhd.vercel.app"><img src="assets/card-site.svg" width="49%" alt="Сайт на Vercel"></a>
-  <img src="assets/card-pulsar.svg" width="49%" alt="Pulsar: десктоп-приложение на Rust, в разработке">
+  <img src="assets/card-gravastar.svg" width="49%" alt="Gravastar: пульт стрима на Python с виджетами для OBS">
 </p>
 
 <img src="assets/h-stack.svg" width="100%" alt="02 Стек">
@@ -29,6 +27,8 @@
 
 <img src="assets/h-team.svg" width="100%" alt="03 Участие">
 
-<img src="assets/cubo-crown.png" width="20" align="top" alt=""> &nbsp;**[Cuboserver Team](https://cuboserver.net)**: работал на позициях Community Manager, Tester
+<p align="center">
+  <a href="https://cuboserver.net"><img src="assets/card-cubo.svg" width="49%" alt="Cuboserver Team: Community Manager, Tester"></a>
+</p>
 
 <p align="center"><img src="assets/footer.svg" width="100%" alt="Спасибо, что заглянули"></p>
