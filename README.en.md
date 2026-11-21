@@ -13,10 +13,8 @@ Hi! I'm **ShadowDemonHD**, a developer currently working toward a university deg
 <img src="assets/h-projects-en.svg" width="100%" alt="01 Projects">
 
 <p align="center">
-  <img src="assets/card-gravastar-en.svg" width="49%" alt="Gravastar: desktop app in Python">
-  <img src="assets/card-widgets-en.svg" width="49%" alt="OBS widgets and an HTTPS server in Python">
   <a href="https://shadowdemonhd.vercel.app"><img src="assets/card-site-en.svg" width="49%" alt="Website on Vercel"></a>
-  <img src="assets/card-pulsar-en.svg" width="49%" alt="Pulsar: desktop app in Rust, in development">
+  <img src="assets/card-gravastar-en.svg" width="49%" alt="Gravastar: stream control app in Python with OBS widgets">
 </p>
 
 <img src="assets/h-stack-en.svg" width="100%" alt="02 Stack">
