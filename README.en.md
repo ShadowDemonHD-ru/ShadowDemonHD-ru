@@ -27,8 +27,6 @@ Hi! I'm **ShadowDemonHD**, a developer currently working toward a university deg
 
 <img src="assets/h-team-en.svg" width="100%" alt="03 Experience">
 
-<p align="center">
-  <a href="https://cuboserver.net"><img src="assets/card-cubo-en.svg" width="49%" alt="Cuboserver Team: Community Manager, Tester"></a>
-</p>
+<img src="assets/cubo-crown.png" width="20" align="top" alt=""> &nbsp;**[Cuboserver Team](https://cuboserver.net)**: worked as Community Manager and Tester
 
 <p align="center"><img src="assets/footer-en.svg" width="100%" alt="Thanks for stopping by"></p>

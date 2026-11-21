@@ -27,8 +27,6 @@
 
 <img src="assets/h-team.svg" width="100%" alt="03 Участие">
 
-<p align="center">
-  <a href="https://cuboserver.net"><img src="assets/card-cubo.svg" width="49%" alt="Cuboserver Team: Community Manager, Tester"></a>
-</p>
+<img src="assets/cubo-crown.png" width="20" align="top" alt=""> &nbsp;**[Cuboserver Team](https://cuboserver.net)**: работал на позициях Community Manager, Tester
 
 <p align="center"><img src="assets/footer.svg" width="100%" alt="Спасибо, что заглянули"></p>
